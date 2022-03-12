@@ -80,3 +80,4 @@ gem 'bootstrap', '~> 5.1.3'
 
 gem 'importmap-rails'
 gem "hotwire-rails", "~> 0.1.3"
+gem 'will_paginate', '~> 3.1.0'
